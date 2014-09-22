@@ -10,8 +10,8 @@
 $languageStrings = array(
 	
 	'Asterisk' => 'Asterisk',
-	'PBXManager' => 'PBX Manager',
-	'SINGLE_PBXManager' => 'PBX Manager',
+	'PBXManager' => 'จัดการ PBX',
+	'SINGLE_PBXManager' => 'จัดการ PBX',
 	
 	//Blocks
 	'LBL_CALL_INFORMATION' => 'รายละเอียดการโทร',

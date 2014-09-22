@@ -39,14 +39,14 @@ $languageStrings = array(
 	'Prof.'=>'ศต.',
 
 	//Lead Status Picklist values
-	'Attempted to Contact'=>'Attempted to Contact',
-	'Cold'=>'Cold',
-	'Contact in Future'=>'Contact in Future',
-	'Contacted'=>'Contacted',
-	'Hot'=>'Hot',
-	'Junk Lead'=>'Junk Lead',
-	'Lost Lead'=>'Lost Lead',
-	'Not Contacted'=>'Not Contacted',
+	'Attempted to Contact'=>'พยายามจะติดต่อ',
+	'Cold'=>'เฉยเมย',
+	'Contact in Future'=>'จะติดต่อกลับภายหลัง',
+	'Contacted'=>'ติดต่อแล้ว',
+	'Hot'=>'มาใหม่',
+	'Junk Lead'=>'เก่าแล้ว',
+	'Lost Lead'=>'ติดต่อไม่ได้',
+	'Not Contacted'=>'ไม่สามารถติดต่อได้',
 	'Pre Qualified'=>'Pre Qualified',
 	'Qualified'=>'Qualified',
 	'Warm'=>'Warm',
@@ -69,7 +69,7 @@ $languageStrings = array(
 	'LBL_WEBFORMS' => 'ติดตั้ง Webforms',
 );
 $jsLanguageStrings = array(
-	'JS_SELECT_CONTACTS' => 'Select Contacts to proceed',
-	'JS_SELECT_ORGANIZATION' => 'Select Organization to proceed',
+	'JS_SELECT_CONTACTS' => 'เลือกผู้ติดต่อเพื่อดำเนินการต่อไป',
+	'JS_SELECT_ORGANIZATION' => 'เลือกลูกค้าเพื่อดำเนินการต่อไป',
 	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Conversion requires selection of Contact or Organization'
 );

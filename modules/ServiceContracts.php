@@ -10,22 +10,22 @@
  * *********************************************************************************** */
 $languageStrings = array(
 	// Basic Strings
-	'ServiceContracts' => 'Service Contracts',
-	'Service Contracts' => 'Service Contracts',
-	'SINGLE_ServiceContracts' => 'Service Contract',
-	'LBL_ADD_RECORD' => 'Add Service Contract',
-	'LBL_RECORDS_LIST' => 'Service Contracts List',
+	'ServiceContracts' => 'สัญญาการให้บริการ',
+	'Service Contracts' => 'สัญญาการให้บริการ',
+	'SINGLE_ServiceContracts' => 'สัญญาการให้บริการ',
+	'LBL_ADD_RECORD' => 'เพิ่มสัญญาการให้บริการ',
+	'LBL_RECORDS_LIST' => 'รายการสัญญา',
 	// Blocks
-	'LBL_SERVICE_CONTRACT_INFORMATION' => 'Service Contract Details',
+	'LBL_SERVICE_CONTRACT_INFORMATION' => 'รายละเอียดสัญญา',
 	
 	//Field Labels
-	'Contract No' => 'Contract Number',
-	'Start Date' => 'Start Date',
-	'End Date' => 'End Date',
-	'Tracking Unit' => 'Tracking Unit',
-	'Total Units' => 'Total Units',
-	'Used Units' => 'Used Units',
-	'Progress'=> 'Progress',
-	'Planned Duration' => 'Planned Duration (in Days)',
-	'Actual Duration' => 'Actual Duration (in Days)',
+	'Contract No' => 'เลขที่สัญญา',
+	'Start Date' => 'วันเริ่ม',
+	'End Date' => 'วันสิ้นสุด',
+	'Tracking Unit' => 'จำนวนที่ติดตาม',
+	'Total Units' => 'จำนวนรวม',
+	'Used Units' => 'จำนวนที่ใช้',
+	'Progress'=> 'ความคืบหน้า',
+	'Planned Duration' => 'ระยะเวลาที่วางแผน',
+	'Actual Duration' => 'ระยะเวลาจริง',
 );

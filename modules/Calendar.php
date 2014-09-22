@@ -53,7 +53,7 @@ $languageStrings = array(
 	'Completed' => 'เสร็จสิ้น',
 	'Pending Input' => 'งานค้าง',
 	'Not Started' => 'ไม่เริ่ม',
-	'Deferred' => 'Deferred',
+	'Deferred' => 'รอ',
 
 	//Priority picklist values
 	'Medium' => 'กลาง',
@@ -89,14 +89,14 @@ $languageStrings = array(
 	
 	//Import and Export Labels
 	'LBL_IMPORT_RECORDS' => 'นำเข้า',
-	'LBL_RESULT' => 'ผลลัภพ์',
+	'LBL_RESULT' => 'ผลลัพท์',
 	'LBL_FINISH' => 'เสร็จ',
-	'LBL_TOTAL_TASKS_IMPORTED' => 'No. of Tasks Successfully Imported ',
-	'LBL_TOTAL_TASKS_SKIPPED' => 'No. of Tasks Skipped as they were missing one or more required field ',
-	'LBL_TOTAL_EVENTS_IMPORTED' => 'No. of Events Successfully Imported ',
-	'LBL_TOTAL_EVENTS_SKIPPED' => 'No. of Events Skipped as they were missing one or more required field ',
+	'LBL_TOTAL_TASKS_IMPORTED' => 'จำนวนที่นำเข้าสำเร็จ ',
+	'LBL_TOTAL_TASKS_SKIPPED' => 'จำนวนที่ข้ามไปเพราะว่ามีข้อมูลไม่ครบ ',
+	'LBL_TOTAL_EVENTS_IMPORTED' => 'จำนวนอีเว้นท์ที่นำเข้าสำเร็จ ',
+	'LBL_TOTAL_EVENTS_SKIPPED' => 'จำนวนที่ข้ามไปเพราะว่ามีข้อมูลไม่ครบ ',
 	
-	'ICAL_FORMAT' => 'iCal Format',
+	'ICAL_FORMAT' => 'รูปแบบ iCal',
 	'LBL_LAST_IMPORT_UNDONE'=>'Your Last Import Was Undone',
 	'LBL_UNDO_LAST_IMPORT' => 'Undo Last Import'
 
@@ -123,7 +123,7 @@ $jsLanguageStrings = array(
 	'LBL_TUESDAY' => 'อังคาร',
 	'LBL_WEDNESDAY' => 'พุธ',
 	'LBL_THURSDAY' => 'พฤหัสบดี',
-	'LBL_FRIDAY' => 'ศูกร์',
+	'LBL_FRIDAY' => 'ศุกร์',
 	'LBL_SATURDAY' => 'เสาร์',
 	
 	'LBL_SUN' => 'อ.',

@@ -11,7 +11,7 @@ $languageStrings = array(
 
 	// Footer
 	'APPTITLE' => 'vtiger CRM',
-	'POWEREDBY'=> 'Powered by vtiger CRM | ภาษาไทย โดย : <a href="http://vtigercrm.marnoi.net" target="_blank">vtigercrm.marnoi.net</a>',
+	'POWEREDBY'=> 'Powered by vtiger CRM | ภาษาไทย โดย : <a href="http://www.crm.in.th" target="_blank">www.crm.in.th</a>',
 	'LBL_READ_LICENSE' => 'อ่านไลเซนส์',
 	'LBL_PRIVACY_POLICY' => 'ข้อกำหนด',
 
@@ -35,7 +35,7 @@ $languageStrings = array(
 	'LBL_ADD_COMMENT' => 'เพิ่มคอมเม้นต์',
 	'LBL_EDIT_FIELDS' => 'แก้ไขฟิลด์',
 	'LBL_EDIT_WORKFLOWS' => 'แก้ไขเวริคโฟว์',
-	'LBL_EDIT_PICKLIST_VALUES' => 'Edit Picklist Values',
+	'LBL_EDIT_PICKLIST_VALUES' => 'แก้ไขค่า Picklist',
 	'LBL_EDIT_MAILSCANNER' => 'Mail Converter',
 	'LBL_RECORD_DELETE' => 'The record you are trying to view has been deleted.',
 	'LBL_RECORD_NOT_FOUND' => 'Record you are trying to access is not found',
@@ -78,7 +78,7 @@ $languageStrings = array(
 	'LBL_USER_SETTINGS' => 'ตั้งค่าผู้ใช้งาน',
 	'LBL_MY_PREFERENCES' => 'ตั้งค่าส่วนตัว',
 	'LBL_SIGN_OUT' => 'ออกจากระบบ',
-	'LBL_HELP' => 'ชื่อเหลือ',
+	'LBL_HELP' => 'ช่วยเหลือ',
 	'LBL_DOCUMENTATION' => 'เอกสาร',
 	'LBL_VIDEO_TUTORIAL' => 'วิดีโอสอน',
 	'LBL_FEEDBACK' => 'Feedback',
@@ -162,7 +162,7 @@ $languageStrings = array(
 	'Project' => 'โปรเจค',
 	'ProjectMilestone' => 'โปรเจคไมล์สโตน',
 	'ProjectTask' => 'ทาสก์งานโปรเจค',
-	'ServiceContracts' => 'Service Contracts',
+	'ServiceContracts' => 'สัญญาการบริการ',
 	'Services' => 'บริการ',
 	'Vendors' => 'ผู้ขาย',
 	'Rss' => 'RSS',
@@ -254,7 +254,7 @@ $languageStrings = array(
 	'LBL_ADD_SERVICE' => 'เพิ่มบริการ',
 	'LBL_ITEMS_TOTAL' => 'รายการรวม',
 	'LBL_SHIPPING_AND_HANDLING_CHARGES' => 'Shipping & Handling Charges',
-	'LBL_PRE_TAX_TOTAL' => 'Pre Tax Total',
+	'LBL_PRE_TAX_TOTAL' => 'ราคาก่อนภาษี',
 	'LBL_TAX_FOR_SHIPPING_AND_HANDLING' => 'Taxes For Shipping and Handling',
 	'LBL_SET_SHIPPING_AND_HANDLING_TAXES_FOR' => 'Set S&H Taxes For',
 	'LBL_ADJUSTMENT' => 'Adjustment',
@@ -280,7 +280,7 @@ $languageStrings = array(
 
 	//DetailView Actions
 	'LBL_CREATE' => 'สร้าง',
-	'LBL_GENERATE' => 'Generate',
+	'LBL_GENERATE' => 'สร้าง',
     'LBL_DUPLICATE' => 'ทำซ็ำ',
 	'Add Note' => 'เพิ่มเอกสาร',
 
@@ -411,8 +411,8 @@ $languageStrings = array(
 
 	//Detail view summary widgets
 	'LBL_OWNER' => 'เจ้าของ',
-	'LBL_CREATED_ON' => 'Created On',
-	'LBL_MODIFIED_ON' => 'Modified On',
+	'LBL_CREATED_ON' => 'สร้างเมื่อ',
+	'LBL_MODIFIED_ON' => 'แก้ไขเมื่อ',
 	'LBL_MODIFIED' => 'แก้ไข',
 	'LBL_COMMENTED' => 'คอมเม้นต์',
 
@@ -562,8 +562,8 @@ $languageStrings = array(
 
 	'Fax' => 'โทรสาร',
 
-	'Last Name' => 'ชื่อจริง',
-	'First Name' => 'ชื่อสกุล',
+	'Last Name' => 'ชื่อสกุล',
+	'First Name' => 'ชื่อจริง',
 
 	'High' => 'สูง',
 	'Low' => 'ต่ำ',
