@@ -9,15 +9,15 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'SINGLE_Project' => 'สินค้า',
-	'LBL_ADD_RECORD' => 'เพิ่มสินค้า',
-	'LBL_RECORDS_LIST' => 'รายการสินค้า',
+	'SINGLE_Project' => 'โปรเจค',
+	'LBL_ADD_RECORD' => 'เพิ่มโปรเจค',
+	'LBL_RECORDS_LIST' => 'รายการโปรเจค',
 
 	// Blocks
-	'LBL_PROJECT_INFORMATION' => 'รายละเอียดสินค้า',
+	'LBL_PROJECT_INFORMATION' => 'รายละเอียดโปรเจค',
 
 	//Field Labels
-	'Project Name' => 'ชื่อสินค้า',
+	'Project Name' => 'ชื่อโปรเจค',
 	'Start Date' => 'วันเริ่ม',
 	'Target End Date' => 'วันที่สิ้นสุด',
 	'Actual End Date' => 'วันที่สิ้นสุดจริง',
