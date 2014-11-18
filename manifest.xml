@@ -4,7 +4,7 @@
   <name>thai language</name>
   <label>ไทย</label>
   <prefix>th_th</prefix>
-  <version>1.1.0</version>
+  <version>1.2.0</version>
   <dependencies>
 	  <vtiger_version>6.0.0</vtiger_version>
 	  <vtiger_max_version>6.*</vtiger_max_version>

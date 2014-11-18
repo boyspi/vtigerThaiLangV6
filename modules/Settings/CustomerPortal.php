@@ -16,8 +16,8 @@ $languageStrings = array(
 	'LBL_PORTAL_URL' => 'Portal Url',
 
 	//Fields
-	'LBL_MODULE_NAME' => 'Module Name',
-	'LBL_ENABLE_MODULE' => 'Enable Module',
+	'LBL_MODULE_NAME' => 'ชื่อโมดูล่',
+	'LBL_ENABLE_MODULE' => 'เปิดโมดูล',
 	'LBL_VIEW_ALL_RECORDS' => 'See Records across Organization',
 
 	//Messages
